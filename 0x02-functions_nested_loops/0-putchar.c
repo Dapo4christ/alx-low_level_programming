@@ -9,14 +9,14 @@ int main(void)
 
 {
 int i; /*Declaring statements*/
-char string[9] = "_putchar; /*Arrays*/
+char string[9] = "0-putchar; /*Arrays*/
 
 for (i = 0 ; i < 9 ; i++) /*Start for*/
 {
-_putchar(string[i]);/*display word*/
+0-putchar(string[i]);/*display word*/
 } /*End for*/
 
-_putchar('\n');
+0-putchar('\n');
 
 return (0);
 
