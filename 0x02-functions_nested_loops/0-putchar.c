@@ -9,7 +9,7 @@ int main(void)
 
 {
 int i; /*Declaring statements*/
-char string[9] = "Holberton"; /*Arrays*/
+char string[9] = "_putchar; /*Arrays*/
 
 for (i = 0 ; i < 9 ; i++) /*Start for*/
 {
