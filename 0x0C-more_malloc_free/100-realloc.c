@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _realloc - Reallocates a space in memory
  * @ptr: The pointer with allocated size in memory
