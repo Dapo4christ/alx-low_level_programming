@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * array_range - allocates memory for an initialized buffer
  * @min: number of memory bytes
